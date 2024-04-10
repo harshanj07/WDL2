@@ -1,4 +1,4 @@
 create.php
 index.php
-style.php
+style.css
 submit.php
